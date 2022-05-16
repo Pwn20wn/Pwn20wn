@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pwn20wn
-- 👀 I’m interested in hacking all types of systems, protocols, and web applications.
-- 🌱 I’m currently learning computer science online to add to my cybersecurity background.
-- 💞️ I’m looking to collaborate on open-source projects 
+- 🧠 I’m interested in hacking all types of systems, protocols, and web applications.
+- 📚 I’m currently learning computer science online to add to my cybersecurity background.
+- 💻 I’m looking to collaborate on open-source projects 
 - 📫 How to reach me @galvanhacking on twitter & https://medium.com/@christiangalvan on Medium
 
 <!---
